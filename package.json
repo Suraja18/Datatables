@@ -1,0 +1,17 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datatables.net-dt": "^1.13.5",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
